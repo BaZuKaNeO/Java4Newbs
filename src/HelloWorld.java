@@ -9,7 +9,7 @@ public class HelloWorld {
 
     public static void main(String[] var0) {
         String[] var1 = new String[]{"AnishZAwesome", "GuestUser", "Neha_Awesome"};
-        String[] var2 = new String[]{"Anish", "Guest", "Ghiware"};
+        String[] var2 = new String[]{"Anish123#", "Guest", "Ghiware"};
         System.out.print("Enter Username:");
         String var3 = System.console().readLine();
         System.out.print("Enter Pasword:");
